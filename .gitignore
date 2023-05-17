@@ -1,0 +1,8 @@
+.DS_Store
+.cache/
+Task_1_oneT/bin/
+Task_1_oneT/build/
+Task_1_oneT/.cache/
+Task_2_twoT/bin/
+Task_2_twoT/build/
+Task_2_twoT/.cache/
